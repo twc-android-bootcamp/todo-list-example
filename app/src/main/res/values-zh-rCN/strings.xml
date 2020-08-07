@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">待办</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">邮箱</string>
+    <string name="prompt_password">密码</string>
+    <string name="prompt_username">用户名</string>
+    <string name="prompt_hint_task_title">标题...</string>
+    <string name="prompt_task_description">描述</string>
+    <string name="prompt_saved_successfully">保存成功</string>
+    <string name="prompt_deleted_successfully">删除成功</string>
+    <string name="prompt_deadline_is_not_empty">截止日期不能为空</string>
+    <string name="prompt_task_title_is_not_empty">任务标题不能为空</string>
+    <string name="prompt_login_successfully">登录成功</string>
+    <string name="action_sign_in">登录</string>
+    <string name="action_sign_in_short">登录</string>
+    <string name="invalid_username">用户名必须是3 ~ 12为字母或数字</string>
+    <string name="invalid_password">密码长度必须是6 ~ 18位字符</string>
+    <string name="invalid_login_failed_username">用户不存在</string>
+    <string name="invalid_login_failed_password">密码不正确</string>
+    <string name="invalid_login_failed">登录失败</string>
+    <string name="title_activity_login">登录</string>
+    <string name="menu_title_logout">退出</string>
+    <string name="label_empty_activity_title" />
+    <string name="label_date_week_day">23，星期四</string>
+    <string name="label_date_month">7月</string>
+    <string name="label_task_count">%d个任务</string>
+    <string name="label_task_reminder">提醒</string>
+    <string name="label_task_deadline_default_text">日期...</string>
+    <string name="channel_name">待办列表</string>
+    <string name="channel_description">待办列表是一个工具</string>
+</resources>

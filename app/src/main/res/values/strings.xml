@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Todo</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_username">User</string>
+    <string name="prompt_hint_task_title">Title...</string>
+    <string name="prompt_task_description">Description...</string>
+    <string name="prompt_saved_successfully">saved successfully</string>
+    <string name="prompt_deleted_successfully">deleted successfully</string>
+    <string name="prompt_deadline_is_not_empty">deadline is not empty</string>
+    <string name="prompt_task_title_is_not_empty">task title is not empty</string>
+    <string name="prompt_login_successfully">login successfully</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="invalid_username">Username must be between 3 and 13 characters with alpha or digit</string>
+    <string name="invalid_password">Password must be between 6 and 18 characters</string>
+    <string name="invalid_login_failed">Login failed</string>
+    <string name="invalid_login_failed_username">"User does not exist"</string>
+    <string name="invalid_login_failed_password">"Password is invalid"</string>
+    <string name="title_activity_login">Login</string>
+    <string name="menu_title_logout">Logout</string>
+    <string name="label_empty_activity_title" />
+    <string name="label_date_week_day">Thursday, 23th</string>
+    <string name="label_date_month">July</string>
+    <string name="label_task_count">%d tasks</string>
+    <string name="label_task_reminder">Reminder</string>
+    <string name="label_task_deadline_default_text">Deadline</string>
+    <string name="channel_name">todo list</string>
+    <string name="channel_description">todo list is a tool for people.</string>
+</resources>
